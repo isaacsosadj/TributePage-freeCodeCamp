@@ -1,0 +1,49 @@
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    font-family: sans-serif;
+    color: #333;
+    background: #eee;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+img {
+    width: 525px;
+    max-width: 100%;
+    height: auto;
+}
+
+#main {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+#img-div figcaption {
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+#tribute-info{
+    margin-top: 5rem;
+}
+
+#tribute-info p{
+    text-align: justify;
+}
